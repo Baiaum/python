@@ -1,2 +1,2 @@
-# python
-Projetos aleatórios de python
+# Python
+Pequenos projetos aleatórios em python
